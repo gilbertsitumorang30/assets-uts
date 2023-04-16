@@ -1,0 +1,7 @@
+Deskripsi
+
+Memainkan peran pendukung di berbagai platform Menghadirkan seluruh siklus hidup aplikasi - konsep, desain, pembangunan implementasi, pengujian, rilis ke toko aplikasi, dan dukungan Mengumpulkan persyaratan seputar fungsionalitas dan menerjemahkan persyaratan tersebut menjadi solusi fungsional yang elegan dan spesifikasi Membangun prototipe pada tahap teknis awal dari proyek Mensederhanakan platform aplikasi kami dan dalam beberapa kasus aplikasi untuk hadir di berbagai merek dengan minimal duplikasi upaya.
+
+Kualifikasi
+
+Pengalaman minimal 2 tahun dibidang yang sama. Pengalaman mengerjakan Apps menggunakan React Native. Memahami konsep Rest API. Pengalaman upload Apps ke App Store & Playstore (dibuktikan dengan portofolio pada CV). Siap untuk ditempatkan di kantor cabang Palembang. Siap untuk bekerja secepatnya.
